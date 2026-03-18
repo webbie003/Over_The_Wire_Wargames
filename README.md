@@ -1,6 +1,6 @@
 # OverTheWire Bandit Write-Up
 
-This repository contains my structured write-ups for the \*\*Bandit wargame\*\* from \[OverTheWire](https://overthewire.org/wargames/bandit/).
+This repository contains my structured write-ups for the **Bandit wargame** from [OverTheWire](https://overthewire.org/wargames/bandit/).
 
 The goal of this exercise is to document my approach to each level, demonstrating:
 
@@ -8,7 +8,7 @@ The goal of this exercise is to document my approach to each level, demonstratin
 - Linux command-line proficiency
 - Problem-solving in CTF-style environments
 
-> ⚠️ Passwords/flags are intentionally \*\*partially redacted\*\* to avoid spoiling the challenge while still demonstrating completion.
+> ⚠️ Passwords/flags are intentionally **partially redacted** to avoid spoiling the challenge while still demonstrating completion.
 
 ---
 
@@ -72,6 +72,7 @@ Each level write-up includes:
 | 31 → 32 | ✅ | [Level 31 → 32](/levels/level-31.md) |
 | 32 → 33 | ✅ | [Level 32 → 33](/levels/level-32.md) |
 | 33 | ✅ | [Level 33](/levels/level-33.md) |
+
 ---
 
 ## 🛠 Skills Demonstrated
@@ -86,7 +87,7 @@ Each level write-up includes:
 
 ## 🔗 References
 
-- \[OverTheWire Bandit](https://overthewire.org/wargames/bandit/)
+- [OverTheWire Bandit](https://overthewire.org/wargames/bandit/)
 
 ---
 
