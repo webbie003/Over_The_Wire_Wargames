@@ -37,7 +37,7 @@ Password: bandit0
 ### 2. Enumerate the Environment
 
 ```bash
-ls
+ls -la
 ```
 
 The home directory contains a file named:
