@@ -60,11 +60,7 @@ The file contains introductory text and the password for the next level.
 
 ## Walkthrough (Screenshots)
 
-### Initial Enumeration and File Access
-
-![Level 0 Screenshot](../images/level-00-01.png)
-
-The `ls` command reveals the `readme` file. Using `cat` displays its contents, which includes the password.
+![Screenshot](../images/level-00-01.png)
 
 ---
 

@@ -71,19 +71,7 @@ This forces the shell to treat `-` as a filename rather than stdin, allowing the
 
 ## Walkthrough (Screenshots)
 
-### Step 1 – Enumerating Files
-
-![Step 1](../images/level-01-01.png)
-
-The `ls -la` command reveals a file named `-` in the home directory.
-
----
-
-### Step 2 – Reading the File
-
-![Step 2](../images/level-01-02.png)
-
-Using `cat ./-` successfully outputs the contents of the file, revealing the password.
+![Screen Capture](../images/level-01-01.png)
 
 ---
 

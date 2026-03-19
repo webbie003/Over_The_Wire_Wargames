@@ -71,19 +71,7 @@ This allows the file to be read correctly.
 
 ## Walkthrough (Screenshots)
 
-### Step 1 – Enumerating Files
-
-![Step 1](../images/level-02-01.png)
-
-The `ls -la` command reveals a file with spaces in its name.
-
----
-
-### Step 2 – Reading the File
-
-![Step 2](../images/level-02-02.png)
-
-Using quotes allows `cat` to correctly interpret the full filename and display its contents.
+![Screen Capture](../images/level-02-01.png)
 
 ---
 
