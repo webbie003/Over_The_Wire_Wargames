@@ -77,7 +77,10 @@ The file contains several username/password pairs, including the credential for 
 ## Walkthrough (Screenshots)
 
 ![Screenshot](../images/level-02-01.png)
+
 ![Screenshot](../images/level-02-02.png)
+
+![Screenshot](../images/level-02-03.png)
 
 ---
 

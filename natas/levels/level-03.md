@@ -93,7 +93,9 @@ Open `users.txt` to find the credentials for the next level.
 ## Walkthrough (Screenshots)
 
 ![Screenshot](../images/level-03-01.png)
+
 ![Screenshot](../images/level-03-02.png)
+
 ![Screenshot](../images/level-03-03.png)
 
 ---
