@@ -12,8 +12,8 @@ The goal of this repo is to document my learning process across different challe
 
 | Wargame | Focus Area | Status | Link |
 |---|---|---:|---|
-| Bandit | Linux / command line fundamentals | Complete | [Open](./bandit/README.md) |
-| Natas | Web security | In progress (up to level 20) | [Open](./natas/README.md) |
+| Bandit | Linux / command line fundamentals | Complete ✅ | [Open](./bandit/README.md) |
+| Natas | Web security | In progress (up to level 20) ⏳ | [Open](./natas/README.md) |
 
 ---
 
