@@ -68,7 +68,7 @@ Using CyberChef:
 Recovered input secret:
 
 ```text
-oubWYf2kBq
+oubWY... (Redacted)
 ```
 
 ---

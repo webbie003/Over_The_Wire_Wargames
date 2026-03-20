@@ -73,7 +73,7 @@ Using Burp Suite Intruder:
 - Payload: numbers `1 → 640`
 - Monitor responses for changes indicating admin access
 
-![number_list_0-640](/number_list_0-640.txt)
+[number_list_0-640](./number_list_0-640.txt)
 
 ---
 

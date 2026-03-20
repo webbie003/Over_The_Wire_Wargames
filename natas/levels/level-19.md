@@ -64,7 +64,7 @@ Observations:
 61646d696e → admin
 ```
 
-So session format is:
+So session format appears to be:
 
 ```text
 <id>-admin (hex encoded)
@@ -101,7 +101,7 @@ Using Burp Suite Intruder:
 - Iterate through range
 - Look for response indicating admin access
 
-![number_list_0-640-hex](/number_list_0-640-hex.txt)
+[number_list_0-640-hex](number_list_0-640-hex.txt)
 
 ---
 
