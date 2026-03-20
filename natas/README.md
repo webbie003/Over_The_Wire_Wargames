@@ -59,8 +59,8 @@ Each level write-up includes:
 | 16 → 17 | ✅ | [Level 16 → 17](./levels/level-16.md) |
 | 17 → 18 | ✅ | [Level 17 → 18](./levels/level-17.md) |
 | 18 → 19 | ✅ | [Level 18 → 19](./levels/level-18.md) |
-| 19 → 20 | ⏳ | [Level 19 → 20](./levels/level-19.md) |
-| 20 → 21 | ⬜ | [Level 20 → 21](./levels/level-20.md) |
+| 19 → 20 | ✅ | [Level 19 → 20](./levels/level-19.md) |
+| 20 → 21 | ⏳ | [Level 20 → 21](./levels/level-20.md) |
 | 21 → 22 | ⬜ | [Level 21 → 22](./levels/level-21.md) |
 | 22 → 23 | ⬜ | [Level 22 → 23](./levels/level-22.md) |
 | 23 → 24 | ⬜ | [Level 23 → 24](./levels/level-23.md) |

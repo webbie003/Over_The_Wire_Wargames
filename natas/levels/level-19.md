@@ -49,6 +49,12 @@ Logging in multiple times reveals values like:
 36312d61646d696e
 3438362d61646d696e
 3433322d61646d696e
+36322d61646d696e
+3232302d61646d696e
+3633302d61646d696e
+3436372d61646d696e
+3430362d61646d696e
+3432302d61646d696e
 ```
 
 ---
@@ -73,7 +79,15 @@ So session format appears to be:
 Example:
 
 ```text
-3438362d61646d696e → 486-admin
+36312d61646d696e	→ 61-admin
+3438362d61646d696e	→ 486-admin
+3433322d61646d696e	→ 432-admin
+36322d61646d696e	→ 62-admin
+3232302d61646d696e	→ 220-admin
+3633302d61646d696e	→ 630-admin
+3436372d61646d696e	→ 467-admin
+3430362d61646d696e	→ 406-admin
+3432302d61646d696e	→ 420-admin
 ```
 
 ---
@@ -101,7 +115,7 @@ Using Burp Suite Intruder:
 - Iterate through range
 - Look for response indicating admin access
 
-[number_list_0-640-hex](number_list_0-640-hex.txt)
+[number_list_0-640-hex](./number_list_0-640-hex.txt)
 
 ---
 
