@@ -66,9 +66,9 @@ Each level write-up includes:
 | 23 → 24 | ✅ | [Level 23 → 24](./levels/level-23.md) |
 | 24 → 25 | ✅ | [Level 24 → 25](./levels/level-24.md) |
 | 25 → 26 | ✅ | [Level 25 → 26](./levels/level-25.md) |
-| 26 → 27 | ⏳ | [Level 26 → 27](./levels/level-26.md) |
-| 27 → 28 | ⬜ | [Level 27 → 28](./levels/level-27.md) |
-| 28 → 29 | ⬜ | [Level 28 → 29](./levels/level-28.md) |
+| 26 → 27 | ✅ | [Level 26 → 27](./levels/level-26.md) |
+| 27 → 28 | ✅ | [Level 27 → 28](./levels/level-27.md) |
+| 28 → 29 | ⏳ | [Level 28 → 29](./levels/level-28.md) |
 | 29 → 30 | ⬜ | [Level 29 → 30](./levels/level-29.md) |
 | 30 → 31 | ⬜ | [Level 30 → 31](./levels/level-30.md) |
 | 31 → 32 | ⬜ | [Level 31 → 32](./levels/level-31.md) |
