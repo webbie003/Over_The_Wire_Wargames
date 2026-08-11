@@ -1,4 +1,4 @@
-# OverTheWire Natas Write-Up.
+# OverTheWire Natas Write-Up
 
 This repository contains my structured write-ups for the **Natas wargame** from [OverTheWire](https://overthewire.org/wargames/natas/).
 
